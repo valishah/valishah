@@ -7,7 +7,7 @@ I'm a Full Stack Engineer who always seek knowledge. Learn -> Build -> Repeat
 - 💬 Ask me about anything related to product development(architecture, develop, run, scale, monitor, debug)
 - 📫 How to reach me: @valishah
 
-### Skills 
+## Skills 
 ```js
   {
     code: ["Java", "Typescript", "Dart"],
@@ -27,7 +27,7 @@ I'm a Full Stack Engineer who always seek knowledge. Learn -> Build -> Repeat
 };
 ```
 
-### Recent articles
+## Recent articles
 <!-- HACKERNOON_ARTICLES_START -->
 - [Welcome to The Zero Friction Future](https://hackernoon.com/welcome-to-the-zero-friction-future-1jac24u9)
 <!-- HACKERNOON_ARTICLES_END -->
@@ -46,4 +46,5 @@ I'm a Full Stack Engineer who always seek knowledge. Learn -> Build -> Repeat
 - [A quick overview of JavaScript symbols](https://medium.com/free-code-camp/how-did-i-miss-javascript-symbols-c1f1c0e1874a)
 <!-- MEDIUM_ARTICLES_END -->
 
-
+## GitHub Stats
+<p><img src="https://github-readme-stats.vercel.app/api?username=valishah&amp;show_icons=true" alt="GitHub Stats"></p>
