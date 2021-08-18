@@ -66,3 +66,8 @@ I'm a Full Stack Engineer who always seek knowledge. Learn -> Build -> Repeat
 
 ## GitHub Stats
 <p><img src="https://github-readme-stats.vercel.app/api?username=valishah&amp;show_icons=true" alt="GitHub Stats"></p>
+
+  
+<!-- <a href="https://www.buymeacoffee.com/valishah" target="_blank" rel="noreferrer nofollow">
+    <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
+</a>   -->
