@@ -36,7 +36,7 @@ I'm a Full Stack Engineer who always seek knowledge. Learn -> Build -> Repeat
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="GitHub"></code>
   
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
@@ -66,6 +66,10 @@ I'm a Full Stack Engineer who always seek knowledge. Learn -> Build -> Repeat
 
 ## GitHub Stats
 <p><img src="https://github-readme-stats.vercel.app/api?username=valishah&amp;show_icons=true" alt="GitHub Stats"></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valishah&layout=compact" alt="GitHub Top Langs"></p>
+  
+## GitHub Streaks
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=valishah)](https://git.io/streak-stats)
 
   
 <!-- <a href="https://www.buymeacoffee.com/valishah" target="_blank" rel="noreferrer nofollow">
