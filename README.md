@@ -7,6 +7,9 @@ I'm a Full Stack Engineer who always seek knowledge. Learn -> Build -> Repeat
 - 💬 Ask me about anything related to product development(architecture, develop, run, scale, monitor, debug)
 - 📫 How to reach me: @valishah
 
+
+<a href="https://medium.com/@vali.shah"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25>
+
 ## Skills 
 ```js
   {
