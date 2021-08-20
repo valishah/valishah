@@ -5,7 +5,9 @@ I'm a Full Stack Engineer who always seek knowledge. Learn -> Build -> Repeat
 - 🔭 &nbsp; I’m currently working on something exciting
 - 🌱 &nbsp; I’m currently learning Business Management & Product Growth Strategies
 - 💬 &nbsp; Ask me about anything related to product development(architecture, develop, run, scale, monitor, debug)
-- 📫 &nbsp; How to reach me: vali.shah7@gmail.com
+- 📫 &nbsp; How to reach me: 
+    * [LinkedIn](https://www.linkedin.com/in/valishah/)
+    * [GitHub](https://github.com/valishah)
 
 
 <a href="https://medium.com/@vali.shah"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25>
