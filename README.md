@@ -49,6 +49,11 @@ I'm a Full Stack Engineer who always seek knowledge. Learn -> Build -> Repeat
 
 ## Recent articles
 <!-- BLOG-POST-LIST:START -->
+- [Do you know Brook’s Law?](https://codeburst.io/do-you-know-brooks-law-10c874b17e50?source=rss-293761aedb4------2)
+- [Understanding Identity, Integrity, and Confidentiality](https://codeburst.io/understanding-identity-integrity-and-confidentiality-90d7b0081c2a?source=rss-293761aedb4------2)
+- [What’s new in JavaScript ES2019](https://medium.com/free-code-camp/whats-new-in-javascript-es2019-8af4390d8494?source=rss-293761aedb4------2)
+- [npx: npm package runner](https://medium.com/hackernoon/npx-npm-package-runner-7f6683e4304a?source=rss-293761aedb4------2)
+- [An introduction to Git merge and rebase: what they are, and how to use them](https://medium.com/free-code-camp/an-introduction-to-git-merge-and-rebase-what-they-are-and-how-to-use-them-131b863785f?source=rss-293761aedb4------2)
 <!-- BLOG-POST-LIST:END -->
 
 
