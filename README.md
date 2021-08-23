@@ -62,7 +62,7 @@ I'm a Full Stack Engineer who always seek knowledge. Learn -> Build -> Repeat
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valishah&layout=compact" alt="GitHub Top Langs"></p>
   
 ## GitHub Streaks
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=valishah)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=valishah)](https://github-readme-streak-stats.herokuapp.com?user=valishah))
 
   
 <!-- <a href="https://www.buymeacoffee.com/valishah" target="_blank" rel="noreferrer nofollow">
