@@ -14,7 +14,7 @@ I'm a Full Stack Engineer who always seek knowledge. Learn -> Build -> Repeat
 ## Skills 
 ```js
   {
-    code: ["Java", "Typescript", "Dart"],
+    code: ["Java", "Javascript", "Dart"],
     askMeAbout: ["Tech", "Architecture", "Product Development"],
     technologies: {
         backEnd: ["Java", "Node", "Express"],
