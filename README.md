@@ -6,8 +6,7 @@ I'm a Full Stack Engineer who always seek knowledge. Learn -> Build -> Repeat
 - 🌱 &nbsp; I’m currently learning Business Management & Product Growth Strategies
 - 💬 &nbsp; Ask me about anything related to product development(architecture, develop, run, scale, monitor, debug)
 - ⚡ &nbsp;  Fun fact: I love blogging, reading books, and learning new things
-- 📫 &nbsp; How to reach me: 
-    * [LinkedIn](https://www.linkedin.com/in/valishah/)
+- 📫 &nbsp; How to reach me:
     * [GitHub](https://github.com/valishah)
 
 
@@ -45,7 +44,11 @@ I'm a Full Stack Engineer who always seek knowledge. Learn -> Build -> Repeat
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="Flutter"></code>
 
 ## Connect with me
-<a href="https://medium.com/@vali.shah"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a>
+<a href="https://medium.com/@vali.shah"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=30>
+</a>&nbsp;
+
+<a href="https://www.linkedin.com/in/valishah/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
+
 
 ## Recent articles
 <!-- BLOG-POST-LIST:START -->
