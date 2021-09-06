@@ -6,8 +6,6 @@ I'm a Full Stack Engineer who always seek knowledge. Learn -> Build -> Repeat
 - 🌱 &nbsp; I’m currently learning Business Management & Product Growth Strategies
 - 💬 &nbsp; Ask me about anything related to product development(architecture, develop, run, scale, monitor, debug)
 - ⚡ &nbsp;  Fun fact: I love blogging, reading books, and learning new things
-- 📫 &nbsp; How to reach me:
-    * [GitHub](https://github.com/valishah)
 
 
 ## Skills 
