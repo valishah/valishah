@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Full Stack Engineer who always seek knowledge. Learn -> Build -> Repeat
+I'm a Full Stack Engineer. Learn -> Build -> Repeat
 
 - 🔭 &nbsp; I’m currently working on something exciting
 - 🌱 &nbsp; I’m currently learning Business Management & Product Growth Strategies
