@@ -4,7 +4,7 @@ I'm a Full Stack Engineer. Learn -> Build -> Repeat
 
 - 🔭 &nbsp; I’m currently working on something exciting
 - 🌱 &nbsp; I’m currently learning Business Management & Product Growth Strategies
-- 💬 &nbsp; Ask me about anything related to product development(architecture, develop, run, scale, monitor, debug)
+- 💬 &nbsp; Ask me about anything related to product development(architecture, product development, scaling/monitoring)
 - ⚡ &nbsp;  Fun fact: I love blogging, reading books, and learning new things
 
 
