@@ -4,7 +4,7 @@ I'm a Full Stack Engineer. Learn -> Build -> Repeat
 
 - 🔭 &nbsp; I’m currently working on something exciting
 - 🌱 &nbsp; I’m currently learning Business Management & Product Growth Strategies
-- 💬 &nbsp; Ask me about anything related to product development(architecture, product development, scaling/monitoring)
+- 💬 &nbsp; Ask me about anything related to product development(architecture, scaling/monitoring)
 - ⚡ &nbsp;  Fun fact: I love blogging, reading books, and learning new things
 
 
@@ -12,7 +12,7 @@ I'm a Full Stack Engineer. Learn -> Build -> Repeat
 ```js
   {
     code: ["Java", "Javascript", "Dart"],
-    askMeAbout: ["Tech", "Architecture", "Product Development"],
+    askMeAbout: ["Tech", "Architecture", "Product Development", "Scaling", "Growth", "Professional Development"],
     technologies: {
         backEnd: ["Java", "Node", "Express"],
         frontEnd: ["Typescript", "Javascript", "React", "Redux", "HTML", "CSS", "SASS"],
