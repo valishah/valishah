@@ -12,7 +12,7 @@ I'm a Full Stack Engineer. Learn -> Build -> Repeat
 ```js
   {
     code: ["Java", "Javascript", "Dart"],
-    askMeAbout: ["Tech", "Architecture", "Product Development", "Scaling", "Growth", "Professional Development"],
+    askMeAbout: ["Tech", "Architecture", "Product Development", "Scaling", "Growth", "Professional Development", "Security"],
     technologies: {
         backEnd: ["Java", "Node", "Express"],
         frontEnd: ["Typescript", "Javascript", "React", "Redux", "HTML", "CSS", "SASS"],
