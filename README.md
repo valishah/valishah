@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-I'm a Full Stack Engineer. Learn -> Build -> Repeat
-
+I'm a Full Stack Engineer
 - 🔭 &nbsp; I’m currently working on something exciting
 - 🌱 &nbsp; I’m currently learning Business Management & Product Growth Strategies
 - 💬 &nbsp; Ask me about anything related to product development(architecture, scaling/monitoring)
 - ⚡ &nbsp;  Fun fact: I like blogging, reading, and learning new things
 
+Learn -> Build -> Repeat
 
 ## Skills 
 ```js
