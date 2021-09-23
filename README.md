@@ -3,7 +3,7 @@
 I'm a Full Stack Engineer
 - 🔭 &nbsp; I’m currently working on something exciting
 - 🌱 &nbsp; I’m currently learning Business Management & Product Growth Strategies
-- 💬 &nbsp; Ask me about anything related to product development(architecture, scaling/monitoring)
+- 💬 &nbsp; Ask me about anything related to product development(architecture, scaling/monitoring/growth)
 - ⚡ &nbsp;  Fun fact: I like blogging, reading, and learning new things
 
 Learn -> Build -> Repeat
