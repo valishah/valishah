@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I'm a Full Stack Software Engineer. Experience is learning something new everyday.
+I'm a Full Stack Software Engineer who believes that **Experience is learning something new everyday.**
 - 🔭 &nbsp; I’m currently working on something exciting
 - 🌱 &nbsp; I’m currently learning Business Management & Product Growth Strategies
 - 💬 &nbsp; Ask me about anything related to product development(architecture, scaling/monitoring/growth)
