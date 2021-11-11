@@ -5,7 +5,6 @@ I'm a Full Stack Software Engineer who believes that **Experience is learning so
 - 💬 &nbsp; Ask me about anything related to product development(architecture, scaling/monitoring/growth)
 - ⚡ &nbsp;  I like blogging, reading, and learning new things
 
-Learn -> Build -> Repeat
 
 ## Skills 
 ```js
