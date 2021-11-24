@@ -9,10 +9,10 @@ I'm a Full Stack Software Engineer who believes that **Experience is learning so
 ## Skills 
 ```js
   {
-    code: ["Java", "Javascript", "Dart"],
+    code: ["Java", "Typescript", "Dart"],
     askMeAbout: ["Tech", "Architecture", "Product Development", "Scaling", "Growth", "Professional Development", "Security"],
     technologies: {
-        backEnd: ["Java", "Node", "Express"],
+        backEnd: ["Java", "Spring boot", "Node", "Express"],
         frontEnd: ["Typescript", "Javascript", "React", "Redux", "HTML", "CSS", "SASS"],
         mobile: ["Flutter"],
         cloud: ["AWS", "Google Cloud Platform", "Firebase"],
