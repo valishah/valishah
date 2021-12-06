@@ -3,7 +3,7 @@
 I'm a Full Stack Software Engineer who believes that **Experience is learning something new everyday.**
 - 🔭 &nbsp; I’m currently learning Business & Product Growth Strategies
 - 💬 &nbsp; Ask me about anything related to product development(architecture, scaling/monitoring/growth)
-- ⚡ &nbsp;  I like blogging, reading and working on new stuff
+- ⚡ &nbsp;  I like blogging, reading and working on new stuff!
 
 
 ## Skills 
